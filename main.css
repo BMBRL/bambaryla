@@ -1,5 +1,5 @@
 html {
-    background-image: linear-gradient(90deg, #1c1c1c 0%, #262626 100%);
+    background-image: url(img/bg.png);
     height: 100%;
 }
 body {
